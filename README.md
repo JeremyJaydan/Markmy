@@ -16,8 +16,7 @@
 - [markdown-it-incremental-dom](https://github.com/yhatt/markdown-it-incremental-dom) (to integrate the above two together)
 - [markdown-it-task-lists](https://github.com/revin/markdown-it-task-lists) (for checkbox support)
 - [github-markdown-css](https://github.com/sindresorhus/github-markdown-css) (CSS to style the rendered markdown)
-- [/css/editor.css](https://md.jeremyjaydan.dev/css/editor.css) (custom CSS for editor - MIT)
 
 ## Links
-- [GitHub (md.jeremyjayan.dev)](https://github.com/jeremyjaydan/md.jeremyjaydan.dev)
-- [Twitter (@jeremyjaydan)](https://twitter.com/jeremyjaydan)
+- [GitHub (JeremyJaydan/md)](https://github.com/JeremyJaydan/md)
+- [Twitter (@jeremyjaydan)](https://twitter.com/JeremyJaydan)

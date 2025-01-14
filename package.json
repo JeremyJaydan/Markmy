@@ -1,5 +1,5 @@
 {
-  "name": "md.jeremyjaydan.dev",
+  "name": "md",
   "version": "1.0.0",
   "description": "A fast markdown editor",
   "main": "index.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jeremyjaydan/md.jeremyjaydan.dev.git"
+    "url": "git+https://github.com/jeremyjaydan/md.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/jeremyjaydan/md.jeremyjaydan.dev/issues"
+    "url": "https://github.com/jeremyjaydan/md/issues"
   },
-  "homepage": "https://github.com/jeremyjaydan/md.jeremyjaydan.dev#readme",
+  "homepage": "https://github.com/jeremyjaydan/md#readme",
   "dependencies": {
     "nodemon": "^2.0.12",
     "tailwindcss": "^2.2.10"
