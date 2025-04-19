@@ -18,5 +18,5 @@
 - [github-markdown-css](https://github.com/sindresorhus/github-markdown-css) (CSS to style the rendered markdown)
 
 ## Links
-- [GitHub (JeremyJaydan/md)](https://github.com/JeremyJaydan/md)
+- [GitHub (JeremyJaydan/md)](https://github.com/JeremyJaydan/markmy)
 - [Twitter (@jeremyjaydan)](https://twitter.com/JeremyJaydan)
